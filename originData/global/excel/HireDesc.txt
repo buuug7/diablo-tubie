@@ -1,0 +1,22 @@
+Hireling Description	Code	*EOL
+None		0
+Fire Arrow	farw	0
+Cold Arrow	carw	0
+Combat	comb	0
+Defensive Auras	def	0
+Offensive Auras	off	0
+Fire Spells	fire	0
+Cold Spells	cold	0
+Lightning Spells	ltng	0
+Barb Sword	bswr	0
+Barb Axe	baxe	0
+Str11	st11	0
+Str12	st12	0
+Str13	st13	0
+Str14	st14	0
+Str15	st15	0
+Str16	st16	0
+Str17	st17	0
+Str18	st18	0
+Str19	st19	0
+Str20	st20	0
