@@ -59,8 +59,8 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 rune 07 -> rune 08	1			100					2	"r07,qty=2"							r08																																																																																							0
 3 rune 08 -> rune 09	1			100					2	"r08,qty=2"							r09																																																																																							0
 3 rune 09 -> rune 10	1			100					2	"r09,qty=2"							r10																																																																																							0
-3 perfect gems + 1 magic item -> magic item	1			100					2	"any,mag"	"gem3,qty=1"						"usetype,mag"	99		100	sock			2	4																																																																															0
-6 perfect skulls + 1 rare item -> 1 low level rare item	1			0					2	"any,rar"	"gem3,qty=1"						"usetype,rar"	99		100	sock			2	4																																																																															0
+3 perfect gems + 1 magic item -> magic item	1			100					2	"any,mag"	"gem4,qty=1"						"usetype,mag"	99		100	sock			2	4																																																																															0
+6 perfect skulls + 1 rare item -> 1 low level rare item	1			0					2	"any,rar"	"gem4,qty=1"						"usetype,rar"	99		100	sock			2	4																																																																															0
 1 perfect skull + 1 rare item + soj -> 1 high level rare item	1			0					3	"any,rar"	skz	The Stone of Jordan					"usetype,rar"		66	66																																																																																				0
 3 perfect skull + 1 rare item + stone of jordan-> add 1 socket to rare	1			0					5	"any,rar,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
 magic full helm + jewel + rune 06 + perfect sapphire -> hitpower helm	1			100					4	"fhl,mag,upg"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
@@ -238,4 +238,4 @@ ROLL ITEMS																																																																						
 2 magic jewels -> 1 rare jewel	1			0					2	"jew,mag,qty=2"							"jew,rar"		100																																																																																					0
 2 rare jewels -> 1 magic jewel	1			0					2	"jew,rar,qty=2"							"jew,mag"		100																																																																																					0
 weap,eli,uni -> r22	1			100					2	"weap,eli,uni"	wms						r22																																																																																							0
-armo,eli,uni -> r22	1			100					2	"armo,eli,uni"	wms						r22																																																																																							0
+weap,eli,uni -> r22	1			100					2	"armo,eli,uni"	wms						r22																																																																																							0
