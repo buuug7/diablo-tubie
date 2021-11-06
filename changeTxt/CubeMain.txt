@@ -238,4 +238,4 @@ ROLL ITEMS																																																																						
 2 magic jewels -> 1 rare jewel	1			0					2	"jew,mag,qty=2"							"jew,rar"		100																																																																																					0
 2 rare jewels -> 1 magic jewel	1			0					2	"jew,rar,qty=2"							"jew,mag"		100																																																																																					0
 weap,eli,uni -> r22	1			100					2	"weap,eli,uni"	wms						r22																																																																																							0
-weap,eli,uni -> r22	1			100					2	"armo,eli,uni"	wms						r22																																																																																							0
+armo,eli,uni -> r22	1			100					2	"armo,eli,uni"	wms						r22																																																																																							0
